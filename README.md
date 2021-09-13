@@ -7,7 +7,8 @@ User needs to enter a company name and you should check if the company is in TA-
 If not, need to notify about it and to exit from the menu to ask to enter another company name <br>
 If yes, need to go through the link of a company. <br>
 To choose an option 1Y in the graph.  <br>
-For example AITPORT_CITY and to make up a screenshot of the table and graph and to save it in a file.File name shoud with a company name and <br>
+For example AITPORT_CITY and to make up a screenshot of the table and graph and to save it in a file.File name <br>
+shoud with a company name and <br>
 with date and time in the end. For example AITRPORT_CITY_20210902_2100. <br>
 
 ### Technology 
@@ -17,5 +18,5 @@ Selenium , Java
 https://github.com/nuriel99/Selenium_Project
 
 ### Youtube
-https://youtu.be/H6hmz6cKuPg
+https://youtu.be/rwrsHqqEpvY
 
