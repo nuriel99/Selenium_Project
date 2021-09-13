@@ -1,0 +1,387 @@
+Name=POALIM, Symbol=POLI, ISIN=IL0006625771, Last-Rate=2,870, Change=1.38%, Last-Trade=EoD, Base-Price=2,831, Opening-Price=null, 
+Turnover=118429.22
+
+Name=LEUMI, Symbol=LUMI, ISIN=IL0006046119, Last-Rate=2,757, Change=1.06%, Last-Trade=EoD, Base-Price=2,728, Opening-Price=null, 
+Turnover=107324.65
+
+Name=MIZRAHI TEFAHOT, Symbol=MZTF, ISIN=IL0006954379, Last-Rate=10,740, Change=-0.09%, Last-Trade=EoD, Base-Price=10,750, Opening-Price=null, 
+Turnover=70937.78
+
+Name=NICE, Symbol=NICE, ISIN=IL0002730112, Last-Rate=95,760, Change=-0.69%, Last-Trade=EoD, Base-Price=96,430, Opening-Price=null, 
+Turnover=68103.12
+
+Name=DISCOUNT, Symbol=DSCT, ISIN=IL0006912120, Last-Rate=1,731, Change=-0.52%, Last-Trade=EoD, Base-Price=1,740, Opening-Price=null, 
+Turnover=62525.93
+
+Name=AZRIELI GROUP, Symbol=AZRG, ISIN=IL0011194789, Last-Rate=29,940, Change=-1.29%, Last-Trade=EoD, Base-Price=30,330, Opening-Price=null, 
+Turnover=35392.7
+
+Name=TEVA, Symbol=TEVA, ISIN=IL0006290147, Last-Rate=3,004, Change=1.83%, Last-Trade=EoD, Base-Price=2,950, Opening-Price=null, 
+Turnover=31970.77
+
+Name=SHUFERSAL, Symbol=SAE, ISIN=IL0007770378, Last-Rate=2,632, Change=-0.19%, Last-Trade=EoD, Base-Price=2,637, Opening-Price=null, 
+Turnover=29967.3
+
+Name=ICL, Symbol=ICL, ISIN=IL0002810146, Last-Rate=2,295, Change=1.5%, Last-Trade=EoD, Base-Price=2,261, Opening-Price=null, 
+Turnover=29339.13
+
+Name=ALONY HETZ, Symbol=ALHE, ISIN=IL0003900136, Last-Rate=5,073, Change=-0.14%, Last-Trade=EoD, Base-Price=5,080, Opening-Price=null, 
+Turnover=25464.01
+
+Name=AIRPORT CITY, Symbol=ARPT, ISIN=IL0010958358, Last-Rate=6,000, Change=1.11%, Last-Trade=EoD, Base-Price=5,934, Opening-Price=null, 
+Turnover=23884.53
+
+Name=PERRIGO, Symbol=PRGO, ISIN=IE00BGH1M568, Last-Rate=14,350, Change=2.5%, Last-Trade=EoD, Base-Price=14,000, Opening-Price=null, 
+Turnover=23697.22
+
+Name=DELEK GROUP, Symbol=DLEKG, ISIN=IL0010841281, Last-Rate=19,970, Change=2.99%, Last-Trade=EoD, Base-Price=19,390, Opening-Price=null, 
+Turnover=23576.31
+
+Name=ELBIT SYSTEMS, Symbol=ESLT, ISIN=IL0010811243, Last-Rate=47,960, Change=1.63%, Last-Trade=EoD, Base-Price=47,190, Opening-Price=null, 
+Turnover=23150.65
+
+Name=ELECTRA CO PR, Symbol=ECP, ISIN=IL0050101299, Last-Rate=16,550, Change=1.04%, Last-Trade=EoD, Base-Price=16,380, Opening-Price=null, 
+Turnover=23146.01
+
+Name=MELISRON, Symbol=MLSR, ISIN=IL0003230146, Last-Rate=26,740, Change=0.15%, Last-Trade=EoD, Base-Price=26,700, Opening-Price=null, 
+Turnover=22657.11
+
+Name=AMOT, Symbol=AMOT, ISIN=IL0010972789, Last-Rate=2,460, Change=-0.81%, Last-Trade=EoD, Base-Price=2,480, Opening-Price=null, 
+Turnover=21820.07
+
+Name=HAREL, Symbol=HARL, ISIN=IL0005850180, Last-Rate=3,465, Change=2.15%, Last-Trade=EoD, Base-Price=3,392, Opening-Price=null, 
+Turnover=21512.41
+
+Name=NOVA, Symbol=NVMI, ISIN=IL0010845571, Last-Rate=32,790, Change=0.58%, Last-Trade=EoD, Base-Price=32,600, Opening-Price=null, 
+Turnover=20933.14
+
+Name=TOWER, Symbol=TSEM, ISIN=IL0010823792, Last-Rate=9,391, Change=1.28%, Last-Trade=EoD, Base-Price=9,272, Opening-Price=null, 
+Turnover=19488.69
+
+Name=KENON, Symbol=KEN, ISIN=SG9999012629, Last-Rate=13,370, Change=-0.15%, Last-Trade=EoD, Base-Price=13,390, Opening-Price=null, 
+Turnover=18365.16
+
+Name=PHOENIX, Symbol=PHOE, ISIN=IL0007670123, Last-Rate=3,601, Change=2.89%, Last-Trade=EoD, Base-Price=3,500, Opening-Price=null, 
+Turnover=18351.25
+
+Name=FIBI BANK, Symbol=FIBI, ISIN=IL0005930388, Last-Rate=11,580, Change=0.26%, Last-Trade=EoD, Base-Price=11,550, Opening-Price=null, 
+Turnover=17779.0
+
+Name=BEZEQ, Symbol=BEZQ, ISIN=IL0002300114, Last-Rate=377.6, Change=-0.61%, Last-Trade=EoD, Base-Price=379.9, Opening-Price=null, 
+Turnover=17277.45
+
+Name=SUMMIT, Symbol=SMT, ISIN=IL0010816861, Last-Rate=5,482, Change=1.67%, Last-Trade=EoD, Base-Price=5,392, Opening-Price=null, 
+Turnover=14383.57
+
+Name=LIVEPERSON, Symbol=LPSN, ISIN=US5381461012, Last-Rate=20,920, Change=-2.7%, Last-Trade=EoD, Base-Price=21,500, Opening-Price=null, 
+Turnover=14221.08
+
+Name=ISRAEL CORP, Symbol=ILCO, ISIN=IL0005760173, Last-Rate=98,270, Change=1.32%, Last-Trade=EoD, Base-Price=96,990, Opening-Price=null, 
+Turnover=13777.34
+
+Name=MIGDAL INSUR., Symbol=MGDL, ISIN=IL0010811656, Last-Rate=471.6, Change=4.54%, Last-Trade=EoD, Base-Price=451.1, Opening-Price=null, 
+Turnover=13145.84
+
+Name=BLUE SQ REAL ES, Symbol=BLSR, ISIN=IL0010985658, Last-Rate=25,680, Change=1.5%, Last-Trade=EoD, Base-Price=25,300, Opening-Price=null, 
+Turnover=12363.83
+
+Name=ORMAT TECHNO, Symbol=ORA, ISIN=US6866881021, Last-Rate=22,550, Change=-0.22%, Last-Trade=EoD, Base-Price=22,600, Opening-Price=null, 
+Turnover=12346.91
+
+Name=CLAL INSURANCE, Symbol=CLIS, ISIN=IL0002240146, Last-Rate=6,770, Change=1.71%, Last-Trade=EoD, Base-Price=6,656, Opening-Price=null, 
+Turnover=12212.98
+
+Name=MIVNE, Symbol=MVNE, ISIN=IL0002260193, Last-Rate=1,134, Change=0.18%, Last-Trade=EoD, Base-Price=1,132, Opening-Price=null, 
+Turnover=11505.65
+
+Name=CAMTEK, Symbol=CAMT, ISIN=IL0010952641, Last-Rate=13,090, Change=-0.83%, Last-Trade=EoD, Base-Price=13,200, Opening-Price=null, 
+Turnover=11283.07
+
+Name=ENLIGHT ENERGY, Symbol=ENLT, ISIN=IL0007200111, Last-Rate=691.5, Change=-0.5%, Last-Trade=EoD, Base-Price=695, Opening-Price=null, 
+Turnover=11020.28
+
+Name=ENERGIX, Symbol=ENRG, ISIN=IL0011233553, Last-Rate=1,340, Change=0.07%, Last-Trade=EoD, Base-Price=1,339, Opening-Price=null, 
+Turnover=10454.1
+
+Name=GENERATION CAP, Symbol=GNRS, ISIN=IL0011569261, Last-Rate=96, Change=-0.1%, Last-Trade=EoD, Base-Price=96.1, Opening-Price=null, 
+Turnover=9635.16
+
+Name=ALTSHU FUND PEN, Symbol=ASPF, ISIN=IL0011590374, Last-Rate=1,831, Change=0.11%, Last-Trade=EoD, Base-Price=1,829, Opening-Price=null, 
+Turnover=9621.44
+
+Name=PARTNER, Symbol=PTNR, ISIN=IL0010834849, Last-Rate=1,304, Change=-1.44%, Last-Trade=EoD, Base-Price=1,323, Opening-Price=null, 
+Turnover=9281.7
+
+Name=BIG, Symbol=BIG, ISIN=IL0010972607, Last-Rate=49,310, Change=1%, Last-Trade=EoD, Base-Price=48,820, Opening-Price=null, 
+Turnover=9194.59
+
+Name=SELLA REAL EST, Symbol=SLARL, ISIN=IL0011096448, Last-Rate=980.3, Change=1.38%, Last-Trade=EoD, Base-Price=967, Opening-Price=null, 
+Turnover=9113.97
+
+Name=MAYTRONICS, Symbol=MTRN, ISIN=IL0010910656, Last-Rate=7,866, Change=-0.43%, Last-Trade=EoD, Base-Price=7,900, Opening-Price=null, 
+Turnover=8597.91
+
+Name=STRAUSS GROUP, Symbol=STRS, ISIN=IL0007460160, Last-Rate=9,200, Change=-0.22%, Last-Trade=EoD, Base-Price=9,220, Opening-Price=null, 
+Turnover=7588.57
+
+Name=DANYA CEBUS, Symbol=DNYA, ISIN=IL0011731374, Last-Rate=6,756, Change=1.29%, Last-Trade=EoD, Base-Price=6,670, Opening-Price=null, 
+Turnover=7486.52
+
+Name=ASHTROM GROUP, Symbol=ASHG, ISIN=IL0011323156, Last-Rate=7,182, Change=-0.65%, Last-Trade=EoD, Base-Price=7,229, Opening-Price=null, 
+Turnover=7360.34
+
+Name=OPKO HEALTH, Symbol=OPK, ISIN=US68375N1037, Last-Rate=1,137, Change=-0.18%, Last-Trade=EoD, Base-Price=1,139, Opening-Price=null, 
+Turnover=7360.12
+
+Name=ISRACARD, Symbol=ISCD, ISIN=IL0011574030, Last-Rate=1,375, Change=2.38%, Last-Trade=EoD, Base-Price=1,343, Opening-Price=null, 
+Turnover=7189.25
+
+Name=PERION NETWORK, Symbol=PERI, ISIN=IL0010958192, Last-Rate=6,177, Change=-1.87%, Last-Trade=EoD, Base-Price=6,295, Opening-Price=null, 
+Turnover=7044.0
+
+Name=OPC ENERGY, Symbol=OPCE, ISIN=IL0011415713, Last-Rate=3,145, Change=1.65%, Last-Trade=EoD, Base-Price=3,094, Opening-Price=null, 
+Turnover=7011.75
+
+Name=MEGA OR, Symbol=MGOR, ISIN=IL0011044885, Last-Rate=12,020, Change=0.17%, Last-Trade=EoD, Base-Price=12,000, Opening-Price=null, 
+Turnover=6801.37
+
+Name=FORMULA, Symbol=FORTY, ISIN=IL0002560162, Last-Rate=32,200, Change=0.63%, Last-Trade=EoD, Base-Price=32,000, Opening-Price=null, 
+Turnover=6575.65
+
+Name=SHIKUN & BINUI, Symbol=SKBN, ISIN=IL0010819428, Last-Rate=1,931, Change=0.68%, Last-Trade=EoD, Base-Price=1,918, Opening-Price=null, 
+Turnover=6238.57
+
+Name=ELECTRA REAL E., Symbol=ELCRE, ISIN=IL0010940448, Last-Rate=4,761, Change=1.77%, Last-Trade=EoD, Base-Price=4,678, Opening-Price=null, 
+Turnover=5888.96
+
+Name=SHAPIR ENG, Symbol=SPEN, ISIN=IL0011338758, Last-Rate=2,567, Change=0.86%, Last-Trade=EoD, Base-Price=2,545, Opening-Price=null, 
+Turnover=5669.56
+
+Name=BAZAN, Symbol=ORL, ISIN=IL0025902482, Last-Rate=67.7, Change=-1.31%, Last-Trade=EoD, Base-Price=68.6, Opening-Price=null, 
+Turnover=5631.39
+
+Name=REIT 1, Symbol=RIT1, ISIN=IL0010989205, Last-Rate=1,978, Change=0.41%, Last-Trade=EoD, Base-Price=1,970, Opening-Price=null, 
+Turnover=5575.58
+
+Name=ELECTRA, Symbol=ELTR, ISIN=IL0007390375, Last-Rate=199,310, Change=1.35%, Last-Trade=EoD, Base-Price=196,660, Opening-Price=null, 
+Turnover=5545.49
+
+Name=FOX, Symbol=FOX, ISIN=IL0010870223, Last-Rate=42,080, Change=-2.75%, Last-Trade=EoD, Base-Price=43,270, Opening-Price=null, 
+Turnover=5531.13
+
+Name=CELLCOM, Symbol=CEL, ISIN=IL0011015349, Last-Rate=980, Change=-1.9%, Last-Trade=EoD, Base-Price=999, Opening-Price=null, 
+Turnover=5263.26
+
+Name=MATRIX, Symbol=MTRX, ISIN=IL0004450156, Last-Rate=8,806, Change=-0.5%, Last-Trade=EoD, Base-Price=8,850, Opening-Price=null, 
+Turnover=4656.79
+
+Name=HILAN, Symbol=HLAN, ISIN=IL0010846983, Last-Rate=18,410, Change=-0.11%, Last-Trade=EoD, Base-Price=18,430, Opening-Price=null, 
+Turnover=4597.94
+
+Name=DELEK DRILL L, Symbol=DEDR.L, ISIN=IL0004750209, Last-Rate=504, Change=0.18%, Last-Trade=EoD, Base-Price=503.1, Opening-Price=null, 
+Turnover=4442.63
+
+Name=GAZIT GLOBE, Symbol=GZT, ISIN=IL0001260111, Last-Rate=2,280, Change=0.97%, Last-Trade=EoD, Base-Price=2,258, Opening-Price=null, 
+Turnover=4260.43
+
+Name=RATIO L, Symbol=RATI.L, ISIN=IL0003940157, Last-Rate=131.6, Change=1.23%, Last-Trade=EoD, Base-Price=130, Opening-Price=null, 
+Turnover=4044.68
+
+Name=PAZ OIL, Symbol=PZOL, ISIN=IL0011000077, Last-Rate=34,300, Change=0.88%, Last-Trade=EoD, Base-Price=34,000, Opening-Price=null, 
+Turnover=3993.1
+
+Name=HADERA PAPER, Symbol=HAP, ISIN=IL0006320183, Last-Rate=23,850, Change=-0.67%, Last-Trade=EoD, Base-Price=24,010, Opening-Price=null, 
+Turnover=3771.64
+
+Name=BONUS BIOGROUP, Symbol=BONS, ISIN=IL0004850116, Last-Rate=146.5, Change=-2.2%, Last-Trade=EoD, Base-Price=149.8, Opening-Price=null, 
+Turnover=3763.14
+
+Name=MEDITR TOWER, Symbol=MDTR, ISIN=IL0011315236, Last-Rate=982, Change=0.1%, Last-Trade=EoD, Base-Price=981, Opening-Price=null, 
+Turnover=3756.89
+
+Name=ISRAEL SHIPYARD, Symbol=ISHI, ISIN=IL0011685331, Last-Rate=7,374, Change=0.75%, Last-Trade=EoD, Base-Price=7,319, Opening-Price=null, 
+Turnover=3652.45
+
+Name=GILAT, Symbol=GILT, ISIN=IL0010825102, Last-Rate=2,980, Change=-0.3%, Last-Trade=EoD, Base-Price=2,989, Opening-Price=null, 
+Turnover=3410.06
+
+Name=DELEK AUTOMOTIV, Symbol=DLEA, ISIN=IL0008290103, Last-Rate=4,302, Change=0, Last-Trade=EoD, Base-Price=4,302, Opening-Price=null, 
+Turnover=3401.58
+
+Name=FATTAL HOLD, Symbol=FTAL, ISIN=IL0011434292, Last-Rate=28,370, Change=-1.15%, Last-Trade=EoD, Base-Price=28,700, Opening-Price=null, 
+Turnover=3384.93
+
+Name=DANEL, Symbol=DANE, ISIN=IL0003140139, Last-Rate=67,610, Change=0.06%, Last-Trade=EoD, Base-Price=67,570, Opening-Price=null, 
+Turnover=3265.66
+
+Name=AUDIOCODES, Symbol=AUDC, ISIN=IL0010829658, Last-Rate=10,130, Change=-0.2%, Last-Trade=EoD, Base-Price=10,150, Opening-Price=null, 
+Turnover=3259.7
+
+Name=RAMI LEVI, Symbol=RMLI, ISIN=IL0011042491, Last-Rate=23,330, Change=0.47%, Last-Trade=EoD, Base-Price=23,220, Opening-Price=null, 
+Turnover=3253.79
+
+Name=ONE TECHNOLOGI, Symbol=ONE, ISIN=IL0001610182, Last-Rate=5,244, Change=0.87%, Last-Trade=EoD, Base-Price=5,199, Opening-Price=null, 
+Turnover=3239.44
+
+Name=ENERGEAN, Symbol=ENOG, ISIN=GB00BG12Y042, Last-Rate=3,330, Change=1.8%, Last-Trade=EoD, Base-Price=3,271, Opening-Price=null, 
+Turnover=3141.8
+
+Name=ELECTREON, Symbol=ELWS, ISIN=IL0003680191, Last-Rate=14,700, Change=-1.74%, Last-Trade=EoD, Base-Price=14,960, Opening-Price=null, 
+Turnover=3088.23
+
+Name=ISRAEL CANADA, Symbol=ISCN, ISIN=IL0004340191, Last-Rate=1,390, Change=1.46%, Last-Trade=EoD, Base-Price=1,370, Opening-Price=null, 
+Turnover=3029.22
+
+Name=IDI INSUR, Symbol=IDIN, ISIN=IL0011295016, Last-Rate=11,340, Change=1.89%, Last-Trade=EoD, Base-Price=11,130, Opening-Price=null, 
+Turnover=2901.12
+
+Name=YOCHANANOF, Symbol=YHNF, ISIN=IL0011612640, Last-Rate=23,650, Change=-1.66%, Last-Trade=EoD, Base-Price=24,050, Opening-Price=null, 
+Turnover=2804.71
+
+Name=FRESHMARKET, Symbol=FRSM, ISIN=IL0011578338, Last-Rate=1,323, Change=0.46%, Last-Trade=EoD, Base-Price=1,317, Opening-Price=null, 
+Turnover=2803.45
+
+Name=SAPIENS, Symbol=SPNS, ISIN=KYG7T16G1039, Last-Rate=9,181, Change=0.34%, Last-Trade=EoD, Base-Price=9,150, Opening-Price=null, 
+Turnover=2788.4
+
+Name=ARAD INVESTMENT, Symbol=ARAD, ISIN=IL0007310183, Last-Rate=35,380, Change=1.03%, Last-Trade=EoD, Base-Price=35,020, Opening-Price=null, 
+Turnover=2666.91
+
+Name=ISRAS, Symbol=ISRS, ISIN=IL0006130343, Last-Rate=73,160, Change=0.91%, Last-Trade=EoD, Base-Price=72,500, Opening-Price=null, 
+Turnover=2665.05
+
+Name=APOLLO POWER, Symbol=APLP, ISIN=IL0010821143, Last-Rate=3,960, Change=-3.93%, Last-Trade=EoD, Base-Price=4,122, Opening-Price=null, 
+Turnover=2642.67
+
+Name=MENORA MIV HLD, Symbol=MMHD, ISIN=IL0005660183, Last-Rate=7,171, Change=1.29%, Last-Trade=EoD, Base-Price=7,080, Opening-Price=null, 
+Turnover=2619.04
+
+Name=INROM CONST, Symbol=INRM, ISIN=IL0011323560, Last-Rate=1,580, Change=-3.3%, Last-Trade=EoD, Base-Price=1,634, Opening-Price=null, 
+Turnover=2599.86
+
+Name=DELTA, Symbol=DELT, ISIN=IL0006270347, Last-Rate=16,950, Change=1.92%, Last-Trade=EoD, Base-Price=16,630, Opening-Price=null, 
+Turnover=2597.3
+
+Name=COMPUGEN, Symbol=CGEN, ISIN=IL0010852080, Last-Rate=1,980, Change=-2.61%, Last-Trade=EoD, Base-Price=2,033, Opening-Price=null, 
+Turnover=2488.21
+
+Name=FIBI HOLDINGS, Symbol=FIBIH, ISIN=IL0007630119, Last-Rate=13,230, Change=0.76%, Last-Trade=EoD, Base-Price=13,130, Opening-Price=null, 
+Turnover=2357.84
+
+Name=PROPERT & BUIL, Symbol=PTBL, ISIN=IL0006990175, Last-Rate=42,070, Change=-0.57%, Last-Trade=EoD, Base-Price=42,310, Opening-Price=null, 
+Turnover=2295.06
+
+Name=ALLOT, Symbol=ALLT, ISIN=IL0010996549, Last-Rate=4,831, Change=0.62%, Last-Trade=EoD, Base-Price=4,801, Opening-Price=null, 
+Turnover=2209.72
+
+Name=TADIRAN GROUP, Symbol=TDRN, ISIN=IL0002580129, Last-Rate=41,180, Change=0.73%, Last-Trade=EoD, Base-Price=40,880, Opening-Price=null, 
+Turnover=2165.0
+
+Name=DIMRI, Symbol=DIMRI, ISIN=IL0010903156, Last-Rate=22,300, Change=2.62%, Last-Trade=EoD, Base-Price=21,730, Opening-Price=null, 
+Turnover=2058.75
+
+Name=ARGO PROP., Symbol=ARGO, ISIN=NL0015000D84, Last-Rate=10,420, Change=-0.95%, Last-Trade=EoD, Base-Price=10,520, Opening-Price=null, 
+Turnover=1985.91
+
+Name=IES, Symbol=IES, ISIN=IL0004310152, Last-Rate=25,730, Change=4.17%, Last-Trade=EoD, Base-Price=24,700, Opening-Price=null, 
+Turnover=1858.43
+
+Name=AZORIM, Symbol=AZRM, ISIN=IL0007150118, Last-Rate=1,341, Change=-0.45%, Last-Trade=EoD, Base-Price=1,347, Opening-Price=null, 
+Turnover=1856.18
+
+Name=NOFAR ENERGY, Symbol=NOFR, ISIN=IL0011708778, Last-Rate=7,497, Change=-2%, Last-Trade=EoD, Base-Price=7,650, Opening-Price=null, 
+Turnover=1838.53
+
+Name=RADA, Symbol=RADA, ISIN=IL0010826506, Last-Rate=3,416, Change=-0.81%, Last-Trade=EoD, Base-Price=3,444, Opening-Price=null, 
+Turnover=1819.78
+
+Name=BRACK CAPIT N V, Symbol=BCNV, ISIN=NL0009690619, Last-Rate=35,840, Change=-1.67%, Last-Trade=EoD, Base-Price=36,450, Opening-Price=null, 
+Turnover=1807.41
+
+Name=DORAL ENERGY, Symbol=DORL, ISIN=IL0011667685, Last-Rate=1,269, Change=-1.09%, Last-Trade=EoD, Base-Price=1,283, Opening-Price=null, 
+Turnover=1621.52
+
+Name=DIRECT FINANCE, Symbol=DIFI, ISIN=IL0011681868, Last-Rate=65,400, Change=-0.91%, Last-Trade=EoD, Base-Price=66,000, Opening-Price=null, 
+Turnover=1506.21
+
+Name=LAND DEV, Symbol=ILDC, ISIN=IL0006120104, Last-Rate=4,114, Change=0.34%, Last-Trade=EoD, Base-Price=4,100, Opening-Price=null, 
+Turnover=1459.55
+
+Name=TASE, Symbol=TASE, ISIN=IL0011590291, Last-Rate=1,700, Change=0.35%, Last-Trade=EoD, Base-Price=1,694, Opening-Price=null, 
+Turnover=1428.21
+
+Name=AFRICA RESIDENC, Symbol=AFRE, ISIN=IL0010979487, Last-Rate=16,420, Change=-1.02%, Last-Trade=EoD, Base-Price=16,590, Opening-Price=null, 
+Turnover=1419.2
+
+Name=ISRAMCO L, Symbol=ISRA.L, ISIN=IL0002320179, Last-Rate=76.2, Change=0, Last-Trade=EoD, Base-Price=76.2, Opening-Price=null, 
+Turnover=1417.6
+
+Name=ELCO, Symbol=ELCO, ISIN=IL0006940345, Last-Rate=19,490, Change=0.88%, Last-Trade=EoD, Base-Price=19,320, Opening-Price=null, 
+Turnover=1240.89
+
+Name=CARASSO, Symbol=CRSO, ISIN=IL0011238503, Last-Rate=1,663, Change=-1.89%, Last-Trade=EoD, Base-Price=1,695, Opening-Price=null, 
+Turnover=1228.02
+
+Name=MENIVIM REIT, Symbol=MNRT, ISIN=IL0011405730, Last-Rate=216, Change=-0.55%, Last-Trade=EoD, Base-Price=217.2, Opening-Price=null, 
+Turnover=1208.22
+
+Name=NETO MALINDA, Symbol=NTML, ISIN=IL0011050973, Last-Rate=8,119, Change=0.91%, Last-Trade=EoD, Base-Price=8,046, Opening-Price=null, 
+Turnover=1191.62
+
+Name=MALAM TEAM, Symbol=MLTM, ISIN=IL0001560189, Last-Rate=10,620, Change=0.76%, Last-Trade=EoD, Base-Price=10,540, Opening-Price=null, 
+Turnover=1133.22
+
+Name=RETAILORS, Symbol=RTLS, ISIN=IL0011754889, Last-Rate=6,509, Change=1.89%, Last-Trade=EoD, Base-Price=6,388, Opening-Price=null, 
+Turnover=1115.72
+
+Name=GENCELL, Symbol=GNCL, ISIN=IL0011696890, Last-Rate=1,106, Change=-0.45%, Last-Trade=EoD, Base-Price=1,111, Opening-Price=null, 
+Turnover=1023.5
+
+Name=VERIDIS, Symbol=VRDS, ISIN=IL0011763872, Last-Rate=3,609, Change=-1.29%, Last-Trade=EoD, Base-Price=3,656, Opening-Price=null, 
+Turnover=1002.85
+
+Name=BATM, Symbol=BVC, ISIN=IL0010849045, Last-Rate=411.4, Change=6.3%, Last-Trade=EoD, Base-Price=387, Opening-Price=null, 
+Turnover=995.07
+
+Name=MAGIC, Symbol=MGIC, ISIN=IL0010823123, Last-Rate=6,674, Change=-0.39%, Last-Trade=EoD, Base-Price=6,700, Opening-Price=null, 
+Turnover=933.56
+
+Name=EQUITAL, Symbol=EQTL, ISIN=IL0007550176, Last-Rate=9,041, Change=1.56%, Last-Trade=EoD, Base-Price=8,902, Opening-Price=null, 
+Turnover=882.03
+
+Name=KERUR, Symbol=KRUR, ISIN=IL0006210111, Last-Rate=10,200, Change=0, Last-Trade=EoD, Base-Price=10,200, Opening-Price=null, 
+Turnover=868.69
+
+Name=NAYAX, Symbol=NYAX, ISIN=IL0011751166, Last-Rate=1,080, Change=-0.37%, Last-Trade=EoD, Base-Price=1,084, Opening-Price=null, 
+Turnover=859.65
+
+Name=AUGWIND, Symbol=AUGN, ISIN=IL0011059073, Last-Rate=4,873, Change=-2.54%, Last-Trade=EoD, Base-Price=5,000, Opening-Price=null, 
+Turnover=812.93
+
+Name=NOVOLOG, Symbol=NVLG, ISIN=IL0011401515, Last-Rate=295, Change=0.07%, Last-Trade=EoD, Base-Price=294.8, Opening-Price=null, 
+Turnover=803.26
+
+Name=PLASSON INDUS, Symbol=PLSN, ISIN=IL0010816036, Last-Rate=23,800, Change=-0.34%, Last-Trade=EoD, Base-Price=23,880, Opening-Price=null, 
+Turnover=755.52
+
+Name=MAX STOCK, Symbol=MAXO, ISIN=IL0011685588, Last-Rate=1,168, Change=0.26%, Last-Trade=EoD, Base-Price=1,165, Opening-Price=null, 
+Turnover=724.21
+
+Name=DIPLOMAT HOLDI., Symbol=DIPL, ISIN=IL0011734915, Last-Rate=5,852, Change=0.38%, Last-Trade=EoD, Base-Price=5,830, Opening-Price=null, 
+Turnover=713.81
+
+Name=ELLOMAY, Symbol=ELLO, ISIN=IL0010826357, Last-Rate=8,535, Change=3.14%, Last-Trade=EoD, Base-Price=8,275, Opening-Price=null, 
+Turnover=683.71
+
+Name=AQUARIUS EN, Symbol=AQUA, ISIN=IL0011702409, Last-Rate=3,672, Change=-0.49%, Last-Trade=EoD, Base-Price=3,690, Opening-Price=null, 
+Turnover=598.24
+
+Name=LEVINSTEIN PROP, Symbol=LVPR, ISIN=IL0011190803, Last-Rate=7,944, Change=1.11%, Last-Trade=EoD, Base-Price=7,857, Opening-Price=null, 
+Turnover=440.81
+
+Name=NAPHTHA, Symbol=NFTA, ISIN=IL0006430156, Last-Rate=1,501, Change=-0.2%, Last-Trade=EoD, Base-Price=1,504, Opening-Price=null, 
+Turnover=367.85
+
+Name=DELTA BRANDS, Symbol=DLTI, ISIN=IL0011736993, Last-Rate=6,208, Change=-2.1%, Last-Trade=EoD, Base-Price=6,341, Opening-Price=null, 
+Turnover=233.19
+
