@@ -9,7 +9,7 @@ If yes, need to go through the link of a company. <br>
 To choose an option 1Y in the graph.  <br>
 For example AITPORT_CITY and to make up a screenshot of the table and graph and to save it in a file.File name. <br>
 The file name will contain: company name,date and time. <br>
-For example AITRPORT_CITY_20210902_2100. <br>
+For example, AITRPORT_CITY_20210902_2100. <br>
 
 ### Technology 
 Selenium , Java 
