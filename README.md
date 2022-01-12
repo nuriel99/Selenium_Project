@@ -1,7 +1,7 @@
 # Selenium Project
 ### Introduction<br>
-Selenium will provide a list of all companies related to index TA-125, with all data and to sort them by Turnover to the output file <br>
-the site : https://www.tase.co.il/en/market_data/index/137/components/securities_data .  <br>
+The project in Selenium will provide a list of all companies related to index TA-125, with all data and to sort them by Turnover to the output file <br>
+the site :<br> https://www.tase.co.il/en/market_data/index/137/components/securities_data .  <br>
 
 User needs to enter a company name and you should check if the company is in TA-125. <br>
 If not, need to notify about it and to exit from the menu to ask to enter another company name <br>
